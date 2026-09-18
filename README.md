@@ -2,10 +2,8 @@
 
 ### A passionate fullstack developer
 
-- ⭐ My biggest project: [Trello Clone](https://github.com/lironhefcode/trello-clone)
-- 🔭 I’m currently working on: [Instagram Clone](https://github.com/lironhefcode/instgram)
-- 🌱 I’m currently learning **Angular**
-- 💬 Ask me about **React, JavaScript, and responsive design**
+- ⭐ My biggest project: [Covesy](https://github.com/lironhefcode/covest)
+- 🔭 I’m currently working on: [monli - opensourced monitoring](https://github.com/lironhefcode/monli)
 - 📫 How to reach me: **lironheftman@gmail.com**
 
 ---
